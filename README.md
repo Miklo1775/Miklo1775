@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning TypeScript and MongoDB!
 - 🤔 I’m looking for help with finding a remote entry level role as a software developer/engineer.
 - 📫 How to reach me: constvictorequaltonull@gmail.com
--->
-github-readme-stats-eight-sepia-97.vercel.app
 
+
+
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miklo1775&theme=dark&background=000000)](https://git.io/streak-stats)
