@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?height=400&text=Victor%20Flores!&desc=Welcome%20to%20my%20profile!&fontColor=eefe27&color=000)
 
 - 🔭 I’m currently working on a project called chainedIntegrity!
-- 🌱 I’m currently learning TypeScript and MongoDB! Also starting school to get my Bachelors in Computer Science!
-- 🤔 I’m looking for help with finding a remote entry level role as a software developer/engineer.
+- 🌱 I’m currently learning TypeScript and MongoDB! Also starting school to get my Bachelors in Computer Science! Oh, I am raising caterpillars as well. 🐛 => 🦋
+- 🤔 I’m always looking for ways to help others!
 - 📫 How to reach me: constvictorequaltonull@gmail.com
 
 
