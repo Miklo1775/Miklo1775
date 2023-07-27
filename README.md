@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?height=400&text=Victor%20Flores!&desc=Welcome%20to%20my%20profile!&fontColor=eefe27&color=000)
 
 - 🔭 I’m currently familiarizing myself with PHP and having fun doing so! 
-- 🌱 I’m currently learning C#! Also starting school to get my Bachelors in Computer Science! Oh, I am raising caterpillars as well. 🐛 => 🦋
+- 🌱 I’m currently learning C#! Also started school to get my Bachelors in Computer Science! Oh, I am raising caterpillars as well. 🐛 => 🦋
 - 🤔 I’m always looking for ways to help others!
 - 📫 How to reach me: constvictorequaltonull@gmail.com
 
