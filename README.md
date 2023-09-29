@@ -6,7 +6,7 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miklo1775&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-m2lw8w3kr-miklo1775.vercel.app?user=Miklo1775&theme=hacker)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miklo1775&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
